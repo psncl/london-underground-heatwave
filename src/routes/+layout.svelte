@@ -124,7 +124,7 @@
         color: #f2efe9;
         font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
         font-weight: 700;
-        font-size: 1rem;
+        font-size: 0.7rem;
         letter-spacing: 0.06em;
         text-transform: uppercase;
     }
@@ -136,7 +136,17 @@
     }
 
     .top-nav-logo {
-        height: 5rem;
+        height: 2rem;
         width: auto;
+    }
+
+    @media (min-width: 768px) {
+        .top-nav-logo {
+            height: 5rem;
+        }
+
+        .top-nav-title {
+            font-size: 1rem;
+        }
     }
 </style>

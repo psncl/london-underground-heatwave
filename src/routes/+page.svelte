@@ -67,8 +67,14 @@
 
     .grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
         gap: 1.5rem;
         padding: 1rem;
+    }
+
+    @media (min-width: 480px) {
+        .grid {
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        }
     }
 </style>
