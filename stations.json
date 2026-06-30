@@ -1,0 +1,23 @@
+[
+  { "original": "Tottenham Court Road",   "wordplay": "Hottenham Court Road" },
+  { "original": "Tower Hill",             "wordplay": "Tower Grill" },
+  { "original": "Walthamstow Central",    "wordplay": "Walthamstove Central" },
+  { "original": "Covent Garden",          "wordplay": "Oven Garden" },
+  { "original": "Baker Street",           "wordplay": "Baking Street" },
+  { "original": "Holborn",               "wordplay": "Holburn" },
+  { "original": "Barbican",              "wordplay": "Barbicue" },
+  { "original": "Notting Hill Gate",      "wordplay": "Hotting Hill Gate" },
+  { "original": "Blackfriars",           "wordplay": "Blackfryers" },
+  { "original": "Battersea Power Station","wordplay": "Hottersea Power Station" },
+  { "original": "Shepherd's Bush Market","wordplay": "Shepherd's Bushfire Market" },
+  { "original": "Westbourne Park",        "wordplay": "Westburn Park" },
+  { "original": "Finchley Road & Frognal","wordplay": "Finchley Road & Furnace" },
+  { "original": "Bermondsey",            "wordplay": "Burnmondsey" },
+  { "original": "Canary Wharf",           "wordplay": "Canary Warm" },
+  { "original": "Leytonstone",           "wordplay": "Leytonstove" },
+  { "original": "Seven Sisters",          "wordplay": "Seven Blisters" },
+  { "original": "Cockfosters",           "wordplay": "Hotfosters" },
+  { "original": "Regent's Park",          "wordplay": "Regent Spark" },
+  { "original": "Kilburn",               "wordplay": "Kilburn" },
+  { "original": "Balham",               "wordplay": "Burnham" }
+]
